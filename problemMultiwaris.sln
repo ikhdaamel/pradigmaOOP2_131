@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "programNoOverriding", "prog
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program noPewaris", "program noPewaris\program noPewaris.vcxproj", "{3D7B3509-C1CB-41B0-9D2D-B64C74179C0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{CC13CA99-8284-4D55-AF18-DC6FCA26952A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3D7B3509-C1CB-41B0-9D2D-B64C74179C0B}.Release|x64.Build.0 = Release|x64
 		{3D7B3509-C1CB-41B0-9D2D-B64C74179C0B}.Release|x86.ActiveCfg = Release|Win32
 		{3D7B3509-C1CB-41B0-9D2D-B64C74179C0B}.Release|x86.Build.0 = Release|Win32
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Debug|x64.ActiveCfg = Debug|x64
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Debug|x64.Build.0 = Debug|x64
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Debug|x86.Build.0 = Debug|Win32
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Release|x64.ActiveCfg = Release|x64
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Release|x64.Build.0 = Release|x64
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Release|x86.ActiveCfg = Release|Win32
+		{CC13CA99-8284-4D55-AF18-DC6FCA26952A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

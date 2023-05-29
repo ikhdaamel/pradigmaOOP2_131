@@ -10,4 +10,4 @@ public:
 	{
 		count << "orang dibuat dengan umur" << umur << "\n" << endl;
 	}
-};
+}; 
